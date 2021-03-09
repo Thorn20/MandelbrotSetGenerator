@@ -1,0 +1,7 @@
+C:\Users\damon\source\repos\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe.config
+C:\Users\damon\source\repos\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Users\damon\source\repos\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Users\damon\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.csprojAssemblyReference.cache
+C:\Users\damon\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.csproj.CoreCompileInputs.cache
+C:\Users\damon\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.exe
+C:\Users\damon\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.pdb
